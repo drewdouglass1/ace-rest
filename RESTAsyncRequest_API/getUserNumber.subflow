@@ -8,6 +8,7 @@
     <composition>
       <nodes xmi:type="eflow:FCMSource" xmi:id="InTerminal.Input_1" location="25,25">
         <translation xmi:type="utility:TranslatableString" key="Input" bundleName="getUserNumber" pluginId="RESTAsyncRequest_API"/>
+        <shortDescription xmi:type="utility:ConstantString" string="This is the short description"/>
       </nodes>
       <nodes xmi:type="eflow:FCMSink" xmi:id="OutTerminal.Output_1" location="240,29">
         <translation xmi:type="utility:TranslatableString" key="Output" bundleName="getUserNumber" pluginId="RESTAsyncRequest_API"/>
