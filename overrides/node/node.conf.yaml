@@ -1,0 +1,7 @@
+NodeHttpListener:
+  startListener: false
+  HTTPConnector:
+    ListenerPort: 7080
+RestAdminListener:
+  port: 4414
+Host: devops.icp-demo.com
