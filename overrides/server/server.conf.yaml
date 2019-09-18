@@ -1,0 +1,6 @@
+NodeHttpListener:
+  startListener: True
+  HTTPConnector:
+    ListenerPort: 7080
+RestAdminListener:
+  port: 4414
