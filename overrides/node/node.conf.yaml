@@ -1,5 +1,5 @@
 NodeHttpListener:
-  startListener: false
+  startListener: True
   HTTPConnector:
     ListenerPort: 7080
 RestAdminListener:
